@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tamizh: MyString
+  english: MyString
+  other: MyString
+  description: MyText
+
+two:
+  tamizh: MyString
+  english: MyString
+  other: MyString
+  description: MyText
